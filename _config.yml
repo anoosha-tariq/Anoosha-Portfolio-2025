@@ -6,8 +6,10 @@ description: Connect with me on LinkedIn!
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-# github:
-#   is_user_page: true
-#   owner_url: https://github.com/zanjeel
-#   repository_url: https://github.com/zanjeel
-#   repository_nwo: zanjeel
+baseurl: "/Anoosha-Portfolio-2025"
+url: "https://anoosha-tariq.github.io"
+github:
+  is_user_page: true
+  owner_url: https://github.com/anoosha-tariq
+  repository_url: https://github.com/anoosha-tariq/Anoosha-Portfolio-2025
+  repository_nwo: anoosha-tariq/Anoosha-Portfolio-2025
