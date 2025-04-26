@@ -397,184 +397,73 @@ table th {
 }
 </style>
 
-# Data Scientist & Analyst
+# Technical Analyst
 
-📍 London, United Kingdom
+📍 Hungary, Europe
 
-Hey, I'm Zanjeel. I'm a data lover and I thrive on using data for building the most innovative and latest, modern technologies. 
+Hey, I'm Anoosha. I'm a data lover and I thrive on using data for building the most innovative and latest, modern technologies. 
+I am a Technical Support Analyst and Senior Support Specialist with 4+ years in leading multinational firms in growing their working EcoFlow | Ex-Financial Analyst @ Ittefaq Group | Ex-Senior Support Specialist @ Fossil Group Inc. | Operation Team Leader | Customer Service Sales Specialist | BBA @ UoD (1st Class Honours)
+---
 
 ## Education
 
 | Degree | Institution | Year |
 |:------:|:----------:|:----:|
-| MSc., Data Science & Analytics | Brunel University London | Dec 2024 |
-| BSc., Computer Science | FAST University | Sep 2023 |
+| BSc., Business Administration and Management | University of Debrecen | 1st Class Honours (4.67/5)
+| Cambridge International A Level Examination | A*, A, B
 
-
-
+---
 
 ## Skills
 
-* **Programming Languages**: Python, R, SQL, JavaScript, MATLAB
-* **Data Analysis**: Pandas, PySpark, NumPy, Matplotlib
-* **Machine Learning**: Scikit-learn, TensorFlow, Deep Learning
-* **Data Visualization**: Tableau, Power BI, DAX Queries, ggplot2 
-* **AI/ML**: RAG, LLMs, Speech Recognition, APIs
-* **Tools**: Git, GitHub, VSCode, Google Cloud Platform
+* **Core Competencies**: IBM, SPSS, SAP, SQL, Tableu, Salesforce, Microsoft Suite, Excel, Spreadsheets, CRM, ERP, Power BI.
+
+* **Soft Skills**: Verbal Communication, Compassionate, Multi-tasking, Result Oriented, Organised, Issue Resolving, Teamwork, Detail Oriented.
 
 ---
+## Key Achievements
 
-## Featured Projects
+* Resolved **120+** hardware/software issues daily for US and Canada clients using CRM/ERP platforms, boosting system reliability and user satisfaction by **90%**. Consistently maintained **90%+** SLA/KPI adherence, and supported over **$200K+** worth of customer operations with high efficiency and technical precision as **Technical Support Analyst @ EcoFlow**.
 
-### 1. Voice-to-Voice LLM Assistant
-<img src="./assets/img/Voice-LLM.jpeg" class="project-image" alt="Voice Assistant">
-* **Description**: A conversational AI assistant that uses speech-to-text and text-to-speech capabilities, powered by Python and Google's Gemini AI. Features real-time voice recording, processing, and witty responses in real time.
+* Negotiated vendor contracts and optimized procurement workflows, achieving **20%** budget saving (approximately **$50K**). Maintained **100%** financial record accuracy, reduced reporting errors by **10%**, and streamlined payment operations using Moneris and Authorize.Net, cutting operational costs by **10%** while contributing to **20%** improvement in HR efficiency and employee satisfaction as **Financial Analyst @ Ittefaq Brothers**.
 
-* **Skills**: Python, Flask, React, Google Gemini AI, Speech Recognition, gTTS (Google Text to Speech)
+* Customized Salesforce dashboards and Power BI tools, resulting in **12%** increase in sales targets and **22%** growth in lead conversions. Supervised **25+** employees to drive **15%** improvement in productivity, processed **100+** orders weekly via SAP and CyberSource, reducing errors by **50%** and boosting order fulfillment speed by **15%**, while improving operational reporting efficiency by **10-20%**, supporting over **$150K+** in order management and supply chain workflows as a **Seasonal Operations Team Leader & Senior Support Specialist @ Fossil Group**.
 
-* **Key Features**: Real-time voice processing, natural dialogue, witty responses, LLM
+* Streamlined SAP order management systems and enhanced client servicing through CRM platforms, cutting order processing errors by **50%**, increasing order fulfillment speed by **15%**, and improving overall operational efficiency by **10-20%**, safeguarding more than **$150K+** worth of supply chain and customer operations through targeted system improvements being a **Senior Support Specialist @ Fossil Group**.
 
-[View Live Project](https://voice-to-voice-llm.vercel.app){: .project-button} [View on GitHub](https://github.com/zanjeel/Voice-to-Voice-LLM){: .github-button}
+---
+## Featured Publication
 
-<hr class="project-separator">
+### Signaling and Screening in Employee Selection: Skill, Education, or Experience
 
+**Featured in the Open Journal System (OJS) at Debreceni Egyetem, that hosts the top 5% publications on business, economics, and management sciences.**
 
+<img src="./assets/img/publication.png" class="project-image" alt="Publication">
 
+* **Description**:This  study  examines  the importance of three factors—abilities, work experience, and education—that serve as indicators and filters in the selection process. It aims to determine how current job market entrants perceive the importance of these three factors from the perspective of employers.
 
-### 2. Advanced ML for Prediction in Automotive Systems
-<img src="./assets/img/Data-Analysis-Using-Machine-Learning.jpeg" class="project-image" alt="Automobile Analysis">
-* **Description**: Predictive analysis of automobile data using RStudio, focusing on price prediction and market trends.
+* **Key Findings**: The key finding is that respondents consider skills to be the most important, followed by experience, with education playinga secondary role
 
-* **Skills**: R, Regression, KNN, Decision Trees, Random Forests
 
-[View Live Project](https://zanjeel.github.io/Automobile-Predictive-Data-Analysis-RStudio/Automobile-Price-Prediction.nb.html){: .project-button} [View on GitHub](https://github.com/zanjeel/Automobile-Predictive-Data-Analysis-RStudio){: .github-button}
-
-<hr class="project-separator">
-
-
-
-
-### 3. Mould Prediction for Hillingdon Council
-<img src="./assets/img/Predictive-ML-Hillingdon-Council-UK.jpeg" class="project-image" alt="Weather Prediction">
-* **Description**: Machine learning-based Mould prediction system developed for Hillingdon Council, UK, using various ML algorithms.
-
-* **Skills**: Python, Tensorflow, Google Cloud Platform, LSTM, CNN, XGBoost, Time Series
-
-* **Key Features**: Multiple ML models comparison, accurate mould forecasting, interactive visualizations
-
-[View Live Project](https://zanjeel.github.io/Weather-Prediction-MachineLearningAlgorithms-HillingdonCouncilUK/MachineLearningModelsforWeatherPrediction.html){: .project-button} [View on GitHub](https://github.com/zanjeel/Weather-Prediction-MachineLearningAlgorithms-HillingdonCouncilUK){: .github-button}
-
-<hr class="project-separator">
-
-
-
-
-### 4. RAG-NasaAI SpaceLovers
-<img src="./assets/img/NasaAI-proj-img.jpeg" class="project-image" alt="NASA AI">
-* **Description**: A Retrieval-Augmented Generation (RAG) powered by vector search and LLM reasoning, optimizing knowledge retrieval and conversational AI.
-
-* **Skills**: Astra DB, Google Gemini API, Web Scraping, RAG, AI/ML, API Integration
-
-* **Key Features**: Real-time space data retrieval, accurate space information, interactive Q&A interface
-
-[View Live Project](https://rag-nasaai-spacelovers.onrender.com){: .project-button} [View on GitHub](https://github.com/zanjeel/RAG-NasaAI-SpaceLovers){: .github-button} 
-
-<hr class="project-separator">
-
-
-
-
-### 5. DataAnalyserPro
-<img src="./assets/img/Data-Analytics-Pro.jpeg" class="project-image" alt="Data Analysis">
-* **Description**: A web-based data analysis tool that provides instant insights from Excel files without storing any data. Features rich visualizations and comprehensive statistics.
-
-* **Skills**: Excel, React, TypeScript, Tailwind CSS
-
-* **Key Features**: Privacy-first processing, rich visualizations, responsive design
-
-[View Live Project](https://data-analyser-pro.netlify.app){: .project-button} [View on GitHub](https://github.com/zanjeel/DataAnalyserPro){: .github-button}
-
-<hr class="project-separator">
-
-
-
-
-### 6. Data Visualisation and Insights Dashboards
-
-#### Product Sales Insights
-<img src="./assets/img/tableau2.jpeg" class="project-image2" alt="Product Insights Data Analysis">
-
-* **Description**: Data analysis and visualisation of product sales with interactive filters like Profit margin, product and year.
-
-* **Skills**: Tableau, Sales Analytics, Interactive Visualization
-
-* **Key Features**: Sales performance metrics, regional analysis, product category insights
-
-[View Dashboard](https://public.tableau.com/app/profile/zanjeel.tariq.sahi/viz/AdidasSalesAnalaysisUSwithInteractiveFiltersforDeeperInsights/Dashboard){: .project-button}
-
-<hr class="project-separator">
-
-
-### Airport Flight Perfomance Analysis and Insights - Power BI Dashboard
-
-<img src="./assets/img/Airport-PB.png"  alt="Airport Insights Data Analysis">
-
-* **Description**: Interactive Power BI dashboard showcasing total flights, delays and satisfaction index of customers.
-
-* **Skills**: Power BI, Data Visualization, Business Intelligence
-
-* **Key Features**: Interactive filters, real-time data updates, responsive design
-
-[Request Access](mailto:zanjeel123@gmail.com){: .project-button}
-
-<hr class="project-separator">
-
-
-### Revenue and Profit Insights - Power BI Dashboard
-
-<img src="./assets/img/Sales-PB.png"  alt="Adidas Insights Data Analysis">
-
-* **Description**: Informative Power BI dashboard showcasing total revenue, sales and total products sold, which can be filtered by dynamic filters like profit per product and more.
-
-* **Skills**: Power BI, Profit Margin, Finance, Total Revenue,  Business Intelligence
-
-* **Key Features**: Dynamic filters, real-time data updates, Informative Visuals
-
-[Request Access](mailto:zanjeel123@gmail.com){: .project-button}
-
-<hr class="project-separator">
-
-
-#### Customer Insight Analysis
-<img src="./assets/img/Customer.png" alt="Customer Insights Data Analysis">
-
-* **Description**: Interactive dashboard analyzing customer behavior and insights with interactive filters to visualise data by sales, gender and more.
-
-* **Skills**: Tableau, Data Visualization, Business Analytics
-
-* **Key Features**: Interactive filters, customer segmentation, trend analysis
-
-[View Dashboard](https://public.tableau.com/app/profile/zanjeel.tariq.sahi/viz/CustomerInsightDataAnalysis/Dashboard){: .project-button}
+<img src="./assets/img/publication-table.png" class="project-image" alt="Publication Table">
 
 <hr class="project-separator">
 
 ---
 
-## Work Experience
+## Professional Experience
 
-**Developer @ Risidio, London (Jul 2024 - Jan 2024)**  
-  Risido is a top-tier, London based IT firm with global clientele across 4 continents. 
+**Technical Support Analyst and Operations Specialist @ Ecoflow (October 2023 - Present)**  
+  EcoFlow is a leading global innovator in portable power and renewable energy solutions,serves over 100 countries, with more than 4.5 million customers worldwide. With a robust team of over 1,200 employees, it has a valuation of $1 billion and annual revenues approaching $1 billion. It's flagship products have earned TIME magazine's "Best Inventions of 2021."
   
- **President & Lead Developer @ Brunel Data Science, London (Dec 2024 - Sep 2023)**  
-  Data Science Society at Brunel is a Leading Tech organisation increasing data and tech literacy amongst students.
+ **Financial Analyst @ Ittefaq Group (Jun 2023 - Sep 2023)**  
+  Ittefaq Group, a leader in the construction and steel industries has annual revenue of $100+ million with 1000+ employees. The company's commitment to quality and innovation has solidified its reputation as a key player in construction sector.
 
- **Junior Software Engineer (Data Analytics) @ Half Full Studio (Jan 2024 - Jan 2023)**  
-  Half Full Studio is a multinational creative technology firm, delivering innovative digital solutions, with a strong focus on design, storytelling, and user-centric development.
+ **Seasonal Operation Team Leader @ Fossil Group (Mar 2023 - Sep 2023)**  
+  Promoted to Team Leader
 
- **Engineer Intern @ Devsinc (Oct 2022 - Jul 2022)**  
-  Devsinc is a premier software firm and partners of Amazon, Google & more.
-
-
+ **Senior Support Specialist @ Fossil Group (Sep 2022 - February 2023)**  
+ Fossil Group, Inc. is a globally recognized leader in the fashion industry, operates in over 140 countries with a powerful network of more than 30,000 points of distribution. Fossil Group generates over $1.4 billion in annual revenue and manages names like Michael Kors, Diesel, BMW, and Emporio Armani. With a workforce of over 6,000 employees worldwide, the company is one of the most influential and admired players in the global accessories and wearable technology market.
 
 ---
 
@@ -601,10 +490,9 @@ Hey, I'm Zanjeel. I'm a data lover and I thrive on using data for building the m
 
 ## Contact
 
-* **GitHub**: [https://github.com/zanjeel](https://github.com/zanjeel)
-* **LinkedIn**: [zanjeel-tariq-sahi](https://www.linkedin.com/in/zanjeel-tariq-sahi){:rel="noopener noreferrer"}
-* **Email**: zanjeel123@gmail.com
+* **LinkedIn**: [Anoosha Tariq](https://www.linkedin.com/in/anoosha-tariq-sahi){:rel="noopener noreferrer"}
+* **Email**: anooshy10@gmail.com
 
 ---
 
-_This portfolio is constantly updated with new projects and analyses. Check back regularly for updates!_
+_This portfolio is constantly updated with new analyses. Check back regularly for updates!_
