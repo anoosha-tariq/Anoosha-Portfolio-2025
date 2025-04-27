@@ -413,14 +413,14 @@ table th {
 }
 </style>
 
-## Technical Analyst
+### Technical Analyst
 
 📍 Hungary, Europe
 
 <p class="company-description">Hey, I'm Anoosha. I'm a Technical Support Analyst and Senior Support Specialist with 4+ years in leading multinational billion dollar firms in growing their customer base by atleast 20% | Saved $500K through effective cost management | Ex-Financial Analyst @ Ittefaq Group | Ex-Senior Support Specialist @ Fossil Group Inc. | Operation Team Leader | Customer Service Sales Specialist | BBA @ UoD (1st Class Honours)</p>
 ---
 
-### Education 📚
+#### Education 📚
 
 | Degree | Institution | Year |
 |:------:|:----------:|:----:|
@@ -429,32 +429,32 @@ table th {
 
 ---
 
-### Skills 🎯
+#### Skills 🎯
 
 * **Core Competencies**: IBM, SPSS, SAP, SQL, Tableu, Salesforce, Microsoft Suite, Excel, Spreadsheets, CRM, ERP, Power BI.
 
 * **Soft Skills**: Verbal Communication, Compassionate, Multi-tasking, Result Oriented, Organised, Issue Resolving, Teamwork, Detail Oriented.
 
 ---
-### Key Achievements ✨
+#### 7. Key Achievements ✨
 
-* Streamlined SAP order management systems and enhanced client servicing through CRM platforms, safeguarding more than $150K+ worth of supply chain and customer operations, being a Senior Support Specialist @ Fossil Group.
+1. Streamlined SAP order management systems and enhanced client servicing through CRM platforms, safeguarding more than $150K+ worth of supply chain and customer operations, being a Senior Support Specialist @ Fossil Group.
 
-* Optimised operational workflows through Salesforce dashboards and Power BI tools, generating  additional $20K in ARR in less than 3 months by a 12% increase in sales targets and 22% growth in lead conversions.
+2. Optimised operational workflows through Salesforce dashboards and Power BI tools, generating  additional $20K in ARR in less than 3 months by a 12% increase in sales targets and 22% growth in lead conversions.
 
-* Resolved 3000+ hardware/software issues monthly for US and Canada clients using CRM/ERP platforms, boosting system reliability and user satisfaction by 90%. 
+3. Resolved 3000+ hardware/software issues monthly for US and Canada clients using CRM/ERP platforms, boosting system reliability and user satisfaction by 90%. 
 
-* Supervised 25+ employees to in processing 100+ orders weekly via SAP and CyberSource, boosting order fulfillment speed by 15%.
+4. Supervised 25+ employees to in processing 100+ orders weekly via SAP and CyberSource, boosting order fulfillment speed by 15%.
 
-* Negotiated vendor contracts and optimized procurement workflows, achieving 20% budget saving (approximately $50K).
+5. Negotiated vendor contracts and optimized procurement workflows, achieving 20% budget saving (approximately $50K).
 
-* Consistently maintained 90%+ SLA/KPI adherence, and supported over $200K+ worth of customer operations with high efficiency and technical precision as Technical Support Analyst @ EcoFlow.
+6. Consistently maintained 90%+ SLA/KPI adherence, and supported over $200K+ worth of customer operations with high efficiency and technical precision as Technical Support Analyst @ EcoFlow.
 
-* Maintained 100% financial record accuracy, and streamlined payment operations using Moneris and Authorize.Net, cutting operational costs by 10% @ Ittefaq Group.
+7. Maintained 100% financial record accuracy, and streamlined payment operations using Moneris and Authorize.Net, cutting operational costs by 10% @ Ittefaq Group.
 
 ---
 
-### Professional Experience 💼
+#### Professional Experience 💼
 
 **Technical Support Analyst and Operations Specialist @ Ecoflow (October 2023 - Present)**  
 <p class="company-description">EcoFlow serves 4.5M+ customers across 100+ countries, with $1B+ valuation, nearly $1B revenue, 1,200+ employees, and award-winning innovations like TIME's "Best Inventions of 2021."</p>
@@ -516,7 +516,7 @@ table th {
 
 
 ---
-### Featured Publication 📑
+#### Featured Publication 📑
 
 <p class="company-description">Signaling and Screening in Employee Selection: Skill, Education, or Experience</p>
 
@@ -535,7 +535,7 @@ table th {
 
 ---
 
-### Awards & Honours 🏆
+#### Awards & Honours 🏆
 
 * **Dean's Honour List (University of Debrecen)** 
   4.67/5 GPA in Business Administration BSc.
@@ -545,7 +545,7 @@ table th {
 
 ---
 
-### Transferable Extracurriculars 🚀
+#### Transferable Extracurriculars 🚀
 
 **Vice President Business Society (LGS)** 
 * Led a team of 30 members to drive business-focused initiatives and enhance society growth.
@@ -561,7 +561,7 @@ table th {
 
 ---
 
-### Volunteering 🌍
+#### Volunteering 🌍
 
 **Intern (Rising Sun Institute for Special Children)** 
 * Fundraised $5000 for special needs children through a 15 days door to door campaign.
@@ -577,7 +577,7 @@ table th {
 
 ---
 
-### Contact 📞
+#### Contact 📞
 
 * **LinkedIn**: [Anoosha Tariq](https://www.linkedin.com/in/anoosha-tariq-sahi){:rel="noopener noreferrer"}
 * **Email**: anooshy10@gmail.com
