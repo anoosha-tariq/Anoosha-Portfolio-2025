@@ -409,8 +409,8 @@ I am a Technical Support Analyst and Senior Support Specialist with 4+ years in 
 
 | Degree | Institution | Year |
 |:------:|:----------:|:----:|
-| BSc., Business Administration and Management | University of Debrecen | 1st Class Honours (4.67/5)
-| Cambridge International A Level Examination | A*, A, B
+| BSc., Business Administration and Management | University of Debrecen | 1st Class Honours 
+| Cambridge International A Level Examination | LGS | A*, A, B
 
 ---
 
