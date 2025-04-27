@@ -420,7 +420,7 @@ table th {
 <p class="company-description">Hey, I'm Anoosha. I'm a Technical Support Analyst and Senior Support Specialist with 4+ years in leading multinational billion dollar firms in growing their customer base by atleast 20% | Saved $500K through effective cost management | Ex-Financial Analyst @ Ittefaq Group | Ex-Senior Support Specialist @ Fossil Group Inc. | Operation Team Leader | Customer Service Sales Specialist | BBA @ UoD (1st Class Honours)</p>
 ---
 
-### Education
+### Education 📚
 
 | Degree | Institution | Year |
 |:------:|:----------:|:----:|
@@ -429,14 +429,14 @@ table th {
 
 ---
 
-### Skills
+### Skills 🎯
 
 * **Core Competencies**: IBM, SPSS, SAP, SQL, Tableu, Salesforce, Microsoft Suite, Excel, Spreadsheets, CRM, ERP, Power BI.
 
 * **Soft Skills**: Verbal Communication, Compassionate, Multi-tasking, Result Oriented, Organised, Issue Resolving, Teamwork, Detail Oriented.
 
 ---
-### Key Achievements
+### Key Achievements ✨
 
 * Streamlined SAP order management systems and enhanced client servicing through CRM platforms, safeguarding more than $150K+ worth of supply chain and customer operations, being a Senior Support Specialist @ Fossil Group.
 
@@ -454,19 +454,51 @@ table th {
 
 ---
 
-### Professional Experience
+### Professional Experience 💼
 
 **Technical Support Analyst and Operations Specialist @ Ecoflow (October 2023 - Present)**  
-<p class="company-description">EcoFlow serves 4.5M+ customers across 100+ countries, with $1B+ valuation, nearly $1B revenue, 1,200+ employees, and award-winning innovations like TIME's "Best Inventions of 2021.</p>
+<p class="company-description">EcoFlow serves 4.5M+ customers across 100+ countries, with $1B+ valuation, nearly $1B revenue, 1,200+ employees, and award-winning innovations like TIME's "Best Inventions of 2021."</p>
+
+**Responsibilities** 
+* Proficiently resolving customer-reported issues with CRM and ERP systems, consistently achieving over 90% in SLA and KPI adherence. 
+
+* Diagnose and troubleshoot more than 50 hardware and software issues daily, enhancing system reliability and user satisfaction for our international clientele in the United States and Canada by 90%. 
+
+* Facilitated cross-regional collaboration with peers, leading to a 50% increase in the rate of successful technology adaptation to meet evolving partner needs. 
 
 **Financial Analyst @ Ittefaq Group (Jun 2023 - Sep 2023)**  
 <p class="company-description">Ittefaq Group, a leader in the construction and steel industries has annual revenue of $100+ million with 1000+ employees. The company's commitment to quality and innovation has solidified its reputation as a key player in construction sector.</p>
 
+**Responsibilities** 
+* Negotiated and managed vendor contracts with strategic sourcing methods, securing cost-effective procurement of IT resources, which led to a 20% budget saving. This involved conducting market research, leveraging bulk purchasing, and fostering long-term partnerships to ensure competitive pricing and quality service delivery. 
+
+* Managed up-to-date financial records with 100% accuracy overseeing both payable and receivable accounts to ensure utmost data accuracy and compliance with financial regulations. This role a vital part in reducing financial reporting errors by 10% 
+
+* Spearheaded initiatives to optimize payment workflows and operations using Moneris and Authorize.Net softwares, achieving an improvement of reduced operational costs by 10%. 
+
+* Contributed to HR administration by streamlining workflow processes, leading to departmental efficiency. My support for various HR initiatives resulted in a 20% improvement in employee satisfaction 
+
 **Seasonal Operation Team Leader @ Fossil Group (Mar 2023 - Sep 2023)**  
-<p class="company-description">Promoted to Team Leader</p>
+<p class="company-description">Fossil Group, Inc. operates in 140+ countries with 30,000+ distribution points, $1.4B+ revenue, 6,000+ employees, and leads global fashion with brands like Michael Kors, Diesel, BMW, and Emporio Armani.</p>
+
+**Responsibilities** 
+* Customized Salesforce dashboards and reports, working closely with sales teams to understand their needs and providing them with tailored tools. This initiative led to a 12% increase in sales targets and improved client follow-up response times by 20%. 
+
+* Monitored and supervised the performance of over 25 employees, implementing performance management strategies that resulted in a 15% increase in productivity while fostering a supportive and collaborative work environment. 
+
+* Engineered Customized Salesforce, CRM and Power BI solutions to track customer engagement metrics, driving a 22% growth in lead conversion rates. 
 
 **Senior Support Specialist @ Fossil Group (Sep 2022 - February 2023)**  
 <p class="company-description">Fossil Group, Inc. operates in 140+ countries with 30,000+ distribution points, $1.4B+ revenue, 6,000+ employees, and leads global fashion with brands like Michael Kors, Diesel, BMW, and Emporio Armani.</p>
+
+**Responsibilities** 
+* Mobilized SAP and Cyber Source software to manage customer request efficiently by processing of over 100 orders per week, utilizing my skills in SAP software to organize and manage customer requests efficiently. My efforts led to a significant reduction in processing errors by 50%, 
+
+* Acted as a bridge between finance and sales department by initializing an average of 120+ tickets/day to resolve client requests by fetching logs and orchestrated strong client relationships via CRM. 
+
+* Overhauled SAP order management systems, customizing functionalities to better align with business needs. This resulted in a 15% increase in order fulfillment speed, and a 5% boost in supply chain efficiency. 
+
+* Engineered SPSS to enhance reporting, analysis, aided by full-fledge individual, client reports leading to a 10-20% increase in operational efficiency whilst managing cash-to-quote processes. 
 
 **Operations Intern @ WWF (Jun 2017 - Aug 2017)**  
 <p class="company-description">WWF is one of the world's largest conservation organizations, active in over 130 countries with 5 million+ supporters. With annual revenues over $350 million, it leads global efforts in wildlife protection, habitat conservation, and climate change advocacy.</p>
@@ -484,7 +516,7 @@ table th {
 
 
 ---
-### Featured Publication
+### Featured Publication 📑
 
 <p class="company-description">Signaling and Screening in Employee Selection: Skill, Education, or Experience</p>
 
@@ -503,48 +535,49 @@ table th {
 
 ---
 
-### Awards & Honours
+### Awards & Honours 🏆
 
 * **Dean's Honour List (University of Debrecen)** 
   4.67/5 GPA in Business Administration BSc.
 
-* **Exceeding targets and operational excellency (WWF - World Wild Fund for Nature)** 
-  Awarded 1st place of 50 departments in exceeding set targets and KPIs.
+* **Exceeding targets and operational excellency (WWF)** 
+  Awarded 1st place of 50 teams in exceeding set targets and KPIs.
 
 ---
 
-### Transferable Extracurriculars
+### Transferable Extracurriculars 🚀
 
-* **Vice President Business Society (LGS)** 
-  * Led a team of 30 members to drive business-focused initiatives and enhance society growth.
-  * Organized 5 business events, drawing over 200 students and professionals.
-  * Managed event budgets, achieving a 20% reduction in overall costs.
-  * Led partnerships with 20+ local businesses, securing internships and mentorship opportunities for students.
-  * Boosted membership by 30% through strategic marketing and recruitment campaigns.
+**Vice President Business Society (LGS)** 
+* Led a team of 30 members to drive business-focused initiatives and enhance society growth.
+* Organized 5 business events, drawing over 200 students and professionals.
+* Managed event budgets, achieving a 20% reduction in overall costs.
+* Led partnerships with 20+ local businesses, securing internships and mentorship opportunities for students.
+* Boosted membership by 30% through strategic marketing and recruitment campaigns.
 
-* **Vice President Business Society (LGS)** 
-   * Led a team of 20 members, fostering innovation and collaboration in robotics projects and events.
-   * Organized 5+ robotics competitions, attracting over 100 participants and sponsors.
-   * Coordinated robotics workshops, improving student participation and skills by 40%.
+**Vice President Business Society (LGS)** 
+* Led a team of 20 members, fostering innovation and collaboration in robotics projects and events.
+* Organized 5+ robotics competitions, attracting over 100 participants and sponsors.
+* Coordinated robotics workshops, improving student participation and skills by 40%.
 
 ---
 
-### Volunteering
+### Volunteering 🌍
 
-* **Intern (Rising Sun Institute for Special Children)** 
-   * Fundraised $5000 for special needs children through a 15 days door to door campaign.
-   * Supported over 30 children in the daily activities of special children
-   * Developed and tracked progress for 15 children, ensuring their developmental milestones were achieved in line with school objectives.
-   * Organized 20+ weekly recreational activities, boosting children’s motor skills by 10% over a 6-month period.
+**Intern (Rising Sun Institute for Special Children)** 
+* Fundraised $5000 for special needs children through a 15 days door to door campaign.
+* Supported over 30 children in the daily activities of special children
+* Developed and tracked progress for 15 children, ensuring their developmental milestones were achieved in line with school objectives.
+* Organized 20+ weekly recreational activities, boosting children’s motor skills by 10% over a 6-month period.
 
 
-* **Academic Support Intern (Shaheera Foundation)** 
-  * Assisted in teaching vocational and social skills, benefiting 30+ students.
-  * Utilized innovative teaching methods for teaching English and Maths, increasing student engagement by 25%.
-  * Provided tailored 1-1 training sessions for children with special needs.
+**Academic Support Intern (Shaheera Foundation)** 
+* Assisted in teaching vocational and social skills, benefiting 30+ students.
+* Utilized innovative teaching methods for teaching English and Maths, increasing student engagement by 25%.
+* Provided tailored 1-1 training sessions for children with special needs.
+
 ---
 
-### Contact
+### Contact 📞
 
 * **LinkedIn**: [Anoosha Tariq](https://www.linkedin.com/in/anoosha-tariq-sahi){:rel="noopener noreferrer"}
 * **Email**: anooshy10@gmail.com
