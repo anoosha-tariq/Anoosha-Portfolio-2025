@@ -174,17 +174,17 @@ section {
 }
 
 h1 {
-    font-size: 3em;
+    font-size: 2.2em;
     margin-bottom: 0.7em;
 }
 
 h2 {
-    font-size: 2.5em;
+    font-size: 1.8em;
     margin-bottom: 0.7em;
 }
 
 h3 {
-    font-size: 2em;
+    font-size: 1.5em;
     margin-bottom: 0.7em;
 }
 
@@ -401,8 +401,7 @@ table th {
 
 📍 Hungary, Europe
 
-Hey, I'm Anoosha. I'm a data lover and I thrive on using data for building the most innovative and latest, modern technologies. 
-I am a Technical Support Analyst and Senior Support Specialist with 4+ years in leading multinational firms in growing their working EcoFlow | Ex-Financial Analyst @ Ittefaq Group | Ex-Senior Support Specialist @ Fossil Group Inc. | Operation Team Leader | Customer Service Sales Specialist | BBA @ UoD (1st Class Honours)
+Hey, I'm Anoosha. I am a Technical Support Analyst and Senior Support Specialist with 4+ years in leading multinational firms in growing their working EcoFlow | Ex-Financial Analyst @ Ittefaq Group | Ex-Senior Support Specialist @ Fossil Group Inc. | Operation Team Leader | Customer Service Sales Specialist | BBA @ UoD (1st Class Honours)
 ---
 
 ## Education
@@ -423,13 +422,13 @@ I am a Technical Support Analyst and Senior Support Specialist with 4+ years in 
 ---
 ## Key Achievements
 
-* Resolved **120+** hardware/software issues daily for US and Canada clients using CRM/ERP platforms, boosting system reliability and user satisfaction by **90%**. Consistently maintained **90%+** SLA/KPI adherence, and supported over **$200K+** worth of customer operations with high efficiency and technical precision as **Technical Support Analyst @ EcoFlow**.
+* Resolved 120+ hardware/software issues daily for US and Canada clients using CRM/ERP platforms, boosting system reliability and user satisfaction by 90%. Consistently maintained 90%+ SLA/KPI adherence, and supported over $200K+ worth of customer operations with high efficiency and technical precision as Technical Support Analyst @ EcoFlow.
 
-* Negotiated vendor contracts and optimized procurement workflows, achieving **20%** budget saving (approximately **$50K**). Maintained **100%** financial record accuracy, reduced reporting errors by **10%**, and streamlined payment operations using Moneris and Authorize.Net, cutting operational costs by **10%** while contributing to **20%** improvement in HR efficiency and employee satisfaction as **Financial Analyst @ Ittefaq Brothers**.
+* Negotiated vendor contracts and optimized procurement workflows, achieving 20% budget saving (approximately $50K). Maintained 100% financial record accuracy, reduced reporting errors by 10%, and streamlined payment operations using Moneris and Authorize.Net, cutting operational costs by 10% while contributing to 20% improvement in HR efficiency and employee satisfaction as Financial Analyst @ Ittefaq Brothers.
 
-* Customized Salesforce dashboards and Power BI tools, resulting in **12%** increase in sales targets and **22%** growth in lead conversions. Supervised **25+** employees to drive **15%** improvement in productivity, processed **100+** orders weekly via SAP and CyberSource, reducing errors by **50%** and boosting order fulfillment speed by **15%**, while improving operational reporting efficiency by **10-20%**, supporting over **$150K+** in order management and supply chain workflows as a **Seasonal Operations Team Leader & Senior Support Specialist @ Fossil Group**.
+* Customized Salesforce dashboards and Power BI tools, resulting in 12% increase in sales targets and 22% growth in lead conversions. Supervised 25+ employees to drive 15% improvement in productivity, processed 100+ orders weekly via SAP and CyberSource, reducing errors by 50% and boosting order fulfillment speed by 15%, while improving operational reporting efficiency by 10-20%, supporting over $150K+ in order management and supply chain workflows as a Seasonal Operations Team Leader & Senior Support Specialist @ Fossil Group.
 
-* Streamlined SAP order management systems and enhanced client servicing through CRM platforms, cutting order processing errors by **50%**, increasing order fulfillment speed by **15%**, and improving overall operational efficiency by **10-20%**, safeguarding more than **$150K+** worth of supply chain and customer operations through targeted system improvements being a **Senior Support Specialist @ Fossil Group**.
+* Streamlined SAP order management systems and enhanced client servicing through CRM platforms, cutting order processing errors by 50%, increasing order fulfillment speed by 15%, and improving overall operational efficiency by 10-20%, safeguarding more than $150K+ worth of supply chain and customer operations through targeted system improvements being a Senior Support Specialist @ Fossil Group.
 
 ---
 ## Featured Publication
