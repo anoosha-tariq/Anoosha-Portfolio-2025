@@ -197,7 +197,7 @@ p, li {
 .view a {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #2ea44f;
+    background-color: #0077b5;  /* LinkedIn blue color */
     color: white;
     text-decoration: none;
     border-radius: 6px;
@@ -206,7 +206,7 @@ p, li {
 }
 
 .view a:hover {
-    background-color: #2c974b;
+    background-color: #005e93;  /* Darker LinkedIn blue for hover */
 }
 
 /* Project Button Style */
@@ -417,7 +417,7 @@ table th {
 
 📍 Hungary, Europe
 
-<p class="company-description">Hey, I'm Anoosha. I am a Technical Support Analyst and Senior Support Specialist with 4+ years in leading multinational firms in growing their working EcoFlow | Ex-Financial Analyst @ Ittefaq Group | Ex-Senior Support Specialist @ Fossil Group Inc. | Operation Team Leader | Customer Service Sales Specialist | BBA @ UoD (1st Class Honours)</p>
+<p class="company-description">Hey, I'm Anoosha. I'm a Technical Support Analyst and Senior Support Specialist with 4+ years in leading multinational billion dollar firms in growing their customer base by atleast 20% | Saved $500K through effective cost management | Ex-Financial Analyst @ Ittefaq Group | Ex-Senior Support Specialist @ Fossil Group Inc. | Operation Team Leader | Customer Service Sales Specialist | BBA @ UoD (1st Class Honours)</p>
 ---
 
 ### Education
@@ -447,24 +447,6 @@ table th {
 * Streamlined SAP order management systems and enhanced client servicing through CRM platforms, cutting order processing errors by 50%, increasing order fulfillment speed by 15%, and improving overall operational efficiency by 10-20%, safeguarding more than $150K+ worth of supply chain and customer operations through targeted system improvements being a Senior Support Specialist @ Fossil Group.
 
 ---
-### Featured Publication
-
-<p class="company-description">Signaling and Screening in Employee Selection: Skill, Education, or Experience</p>
-
-<p class="company-description">Featured in the Open Journal System (OJS) at Debreceni Egyetem, that hosts the top 5% publications on business, economics, and management sciences.</p>
-
-<img src="./assets/img/publication.png" class="project-image" alt="Publication">
-
-* **Description**:This  study  examines  the importance of three factors—abilities, work experience, and education—that serve as indicators and filters in the selection process. It aims to determine how current job market entrants perceive the importance of these three factors from the perspective of employers.
-
-* **Key Findings**: The key finding is that respondents consider skills to be the most important, followed by experience, with education playinga secondary role
-
-
-<img src="./assets/img/publication-table.png" class="project-image" alt="Publication Table">
-
-<hr class="project-separator">
-
----
 
 ### Professional Experience
 
@@ -483,7 +465,7 @@ table th {
 **Operations Intern @ WWF (Jun 2017 - Aug 2017)**  
 <p class="company-description">WWF is one of the world's largest conservation organizations, active in over 130 countries with 5 million+ supporters. With annual revenues over $350 million, it leads global efforts in wildlife protection, habitat conservation, and climate change advocacy.</p>
 
-* **Responsibilities** 
+**Responsibilities** 
 * Coordinated logistics for 15+ city-wide food drives, ensuring timely collection and distribution of 10,000 € of food.
 
 * Managed partnerships with 100+ businesses to secure food donations, optimizing supply chain processes for efficiency.
@@ -495,6 +477,23 @@ table th {
 * Maintained high operational efficiency and team morale, ensuring smooth event execution under tight deadlines.
 
 
+---
+### Featured Publication
+
+<p class="company-description">Signaling and Screening in Employee Selection: Skill, Education, or Experience</p>
+
+<p class="company-description">Featured in the Open Journal System (OJS) at Debreceni Egyetem, that hosts the top 5% publications on business, economics, and management sciences.</p>
+
+<img src="./assets/img/publication.png" class="project-image" alt="Publication">
+
+* **Description**:This  study  examines  the importance of three factors—abilities, work experience, and education—that serve as indicators and filters in the selection process. It aims to determine how current job market entrants perceive the importance of these three factors from the perspective of employers.
+
+* **Key Findings**: The key finding is that respondents consider skills to be the most important, followed by experience, with education playinga secondary role
+
+
+<img src="./assets/img/publication-table.png" class="project-image" alt="Publication Table">
+
+<hr class="project-separator">
 
 ---
 
@@ -526,4 +525,4 @@ table th {
 
 ---
 
-_This portfolio is constantly updated with new analyses. Check back regularly for updates!_
+_This portfolio is constantly updated with new analyses. Check back regularly for updates._
