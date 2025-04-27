@@ -539,7 +539,7 @@ table th {
 
 * **Description**:This  study  examines  the importance of three factors—abilities, work experience, and education—that serve as indicators and filters in the selection process. It aims to determine how current job market entrants perceive the importance of these three factors from the perspective of employers.
 
-* **Key Findings**: The key finding is that respondents consider skills to be the most important, followed by experience, with education playinga secondary role
+* **Key Findings**: The key finding is that respondents consider skills to be the most important, followed by experience, with education playing a secondary role.
 
 
 <img src="./assets/img/publication-table.png" class="project-image" alt="Publication Table">
