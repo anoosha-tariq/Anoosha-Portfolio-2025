@@ -438,13 +438,19 @@ table th {
 ---
 ### Key Achievements
 
-* Resolved 120+ hardware/software issues daily for US and Canada clients using CRM/ERP platforms, boosting system reliability and user satisfaction by 90%. Consistently maintained 90%+ SLA/KPI adherence, and supported over $200K+ worth of customer operations with high efficiency and technical precision as Technical Support Analyst @ EcoFlow.
+* Streamlined SAP order management systems and enhanced client servicing through CRM platforms, safeguarding more than $150K+ worth of supply chain and customer operations, being a Senior Support Specialist @ Fossil Group.
 
-* Negotiated vendor contracts and optimized procurement workflows, achieving 20% budget saving (approximately $50K). Maintained 100% financial record accuracy, reduced reporting errors by 10%, and streamlined payment operations using Moneris and Authorize.Net, cutting operational costs by 10% while contributing to 20% improvement in HR efficiency and employee satisfaction as Financial Analyst @ Ittefaq Brothers.
+* Optimised operational workflows through Salesforce dashboards and Power BI tools, generating  additional $20K in ARR in less than 3 months by a 12% increase in sales targets and 22% growth in lead conversions.
 
-* Customized Salesforce dashboards and Power BI tools, resulting in 12% increase in sales targets and 22% growth in lead conversions. Supervised 25+ employees to drive 15% improvement in productivity, processed 100+ orders weekly via SAP and CyberSource, reducing errors by 50% and boosting order fulfillment speed by 15%, while improving operational reporting efficiency by 10-20%, supporting over $150K+ in order management and supply chain workflows as a Seasonal Operations Team Leader & Senior Support Specialist @ Fossil Group.
+* Resolved 3000+ hardware/software issues monthly for US and Canada clients using CRM/ERP platforms, boosting system reliability and user satisfaction by 90%. 
 
-* Streamlined SAP order management systems and enhanced client servicing through CRM platforms, cutting order processing errors by 50%, increasing order fulfillment speed by 15%, and improving overall operational efficiency by 10-20%, safeguarding more than $150K+ worth of supply chain and customer operations through targeted system improvements being a Senior Support Specialist @ Fossil Group.
+* Supervised 25+ employees to in processing 100+ orders weekly via SAP and CyberSource, boosting order fulfillment speed by 15%.
+
+* Negotiated vendor contracts and optimized procurement workflows, achieving 20% budget saving (approximately $50K).
+
+* Consistently maintained 90%+ SLA/KPI adherence, and supported over $200K+ worth of customer operations with high efficiency and technical precision as Technical Support Analyst @ EcoFlow.
+
+* Maintained 100% financial record accuracy, and streamlined payment operations using Moneris and Authorize.Net, cutting operational costs by 10% @ Ittefaq Group.
 
 ---
 
@@ -499,23 +505,43 @@ table th {
 
 ### Awards & Honours
 
-* **Dean's Honour List** 
+* **Dean's Honour List (University of Debrecen)** 
   4.67/5 GPA in Business Administration BSc.
 
-* **WWF** 
-  Built 12 Hand Gesture Controlled Robotic Vehicles
+* **Exceeding targets and operational excellency (WWF - World Wild Fund for Nature)** 
+  Awarded 1st place of 50 departments in exceeding set targets and KPIs.
 
 ---
 
-### Extracurriculars
+### Transferable Extracurriculars
 
-* **Tech Speaker Innovia UK Women in STEM**  
-  Keynote Guest Speaker.    
+* **Vice President Business Society (LGS)** 
+  * Led a team of 30 members to drive business-focused initiatives and enhance society growth.
+  * Organized 5 business events, drawing over 200 students and professionals.
+  * Managed event budgets, achieving a 20% reduction in overall costs.
+  * Led partnerships with 20+ local businesses, securing internships and mentorship opportunities for students.
+  * Boosted membership by 30% through strategic marketing and recruitment campaigns.
 
-* **Actor, Dramatics**
-  3 Theatrical Performance for 5000+ audiences.
+* **Vice President Business Society (LGS)** 
+   * Led a team of 20 members, fostering innovation and collaboration in robotics projects and events.
+   * Organized 5+ robotics competitions, attracting over 100 participants and sponsors.
+   * Coordinated robotics workshops, improving student participation and skills by 40%.
+
+---
+
+### Volunteering
+
+* **Intern (Rising Sun Institute for Special Children)** 
+   * Fundraised $5000 for special needs children through a 15 days door to door campaign.
+   * Supported over 30 children in the daily activities of special children
+   * Developed and tracked progress for 15 children, ensuring their developmental milestones were achieved in line with school objectives.
+   * Organized 20+ weekly recreational activities, boosting children’s motor skills by 10% over a 6-month period.
 
 
+* **Academic Support Intern (Shaheera Foundation)** 
+  * Assisted in teaching vocational and social skills, benefiting 30+ students.
+  * Utilized innovative teaching methods for teaching English and Maths, increasing student engagement by 25%.
+  * Provided tailored 1-1 training sessions for children with special needs.
 ---
 
 ### Contact
