@@ -470,19 +470,25 @@ table th {
 <p class="company-description">Ittefaq Group, a leader in the construction and steel industries has annual revenue of $100+ million with 1000+ employees. The company's commitment to quality and innovation has solidified its reputation as a key player in construction sector.</p>
 
 **Responsibilities** 
-* Negotiated and managed vendor contracts with strategic sourcing methods, securing cost-effective procurement of IT resources, which led to a 20% budget saving. This involved conducting market research, leveraging bulk purchasing, and fostering long-term partnerships to ensure competitive pricing and quality service delivery. 
+* Negotiated and managed vendor contracts with strategic sourcing methods, securing cost-effective procurement of IT resources, which led to a 20% budget saving. 
 
-* Managed up-to-date financial records with 100% accuracy overseeing both payable and receivable accounts to ensure utmost data accuracy and compliance with financial regulations. This role a vital part in reducing financial reporting errors by 10% 
+* This involved conducting market research, leveraging bulk purchasing, and fostering long-term partnerships to ensure competitive pricing and quality service delivery. 
+
+* Managed up-to-date financial records with 100% accuracy overseeing both payable and receivable accounts to ensure utmost data accuracy and compliance with financial regulations, reducing financial reporting errors by 10%. 
 
 * Spearheaded initiatives to optimize payment workflows and operations using Moneris and Authorize.Net softwares, achieving an improvement of reduced operational costs by 10%. 
 
-* Contributed to HR administration by streamlining workflow processes, leading to departmental efficiency. My support for various HR initiatives resulted in a 20% improvement in employee satisfaction 
+* Contributed to HR administration by streamlining workflow processes, leading to departmental efficiency.
+
+*  My support for various HR initiatives resulted in a 20% improvement in employee satisfaction. 
 
 **Seasonal Operation Team Leader @ Fossil Group (Mar 2023 - Sep 2023)**  
 <p class="company-description">Fossil Group, Inc. operates in 140+ countries with 30,000+ distribution points, $1.4B+ revenue, 6,000+ employees, and leads global fashion with brands like Michael Kors, Diesel, BMW, and Emporio Armani.</p>
 
 **Responsibilities** 
-* Customized Salesforce dashboards and reports, working closely with sales teams to understand their needs and providing them with tailored tools. This initiative led to a 12% increase in sales targets and improved client follow-up response times by 20%. 
+* Customized Salesforce dashboards and reports, working closely with sales teams to understand their needs and providing them with tailored tools. 
+
+* This initiative led to a 12% increase in sales targets and improved client follow-up response times by 20%. 
 
 * Monitored and supervised the performance of over 25 employees, implementing performance management strategies that resulted in a 15% increase in productivity while fostering a supportive and collaborative work environment. 
 
@@ -492,13 +498,17 @@ table th {
 <p class="company-description">Fossil Group, Inc. operates in 140+ countries with 30,000+ distribution points, $1.4B+ revenue, 6,000+ employees, and leads global fashion with brands like Michael Kors, Diesel, BMW, and Emporio Armani.</p>
 
 **Responsibilities** 
-* Mobilized SAP and Cyber Source software to manage customer request efficiently by processing of over 100 orders per week, utilizing my skills in SAP software to organize and manage customer requests efficiently. My efforts led to a significant reduction in processing errors by 50%, 
+* Mobilized SAP and Cyber Source software to manage customer request efficiently by processing of over 100 orders per week, utilizing my skills in SAP software to organize and manage customer requests efficiently. 
+
+* These efforts led to a significant reduction in processing errors by 50%.
 
 * Acted as a bridge between finance and sales department by initializing an average of 120+ tickets/day to resolve client requests by fetching logs and orchestrated strong client relationships via CRM. 
 
-* Overhauled SAP order management systems, customizing functionalities to better align with business needs. This resulted in a 15% increase in order fulfillment speed, and a 5% boost in supply chain efficiency. 
+* Overhauled SAP order management systems, customizing functionalities to better align with business needs. 
 
-* Engineered SPSS to enhance reporting, analysis, aided by full-fledge individual, client reports leading to a 10-20% increase in operational efficiency whilst managing cash-to-quote processes. 
+* This resulted in a 15% increase in order fulfillment speed, and a 5% boost in supply chain efficiency. 
+
+* Engineered SPSS to enhance reporting, analysis, aided by full-fledge individual, client reports leading to a ~20%+ increase in operational efficiency whilst managing cash-to-quote processes. 
 
 **Operations Intern @ WWF (Jun 2017 - Aug 2017)**  
 <p class="company-description">WWF is one of the world's largest conservation organizations, active in over 130 countries with 5 million+ supporters. With annual revenues over $350 million, it leads global efforts in wildlife protection, habitat conservation, and climate change advocacy.</p>
