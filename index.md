@@ -417,10 +417,13 @@ table th {
 
 📍 Hungary, Europe
 
-<p class="company-description">Hey, I'm Anoosha. I'm a Technical Support Analyst and Senior Support Specialist with 4+ years in leading multinational billion dollar firms in growing their customer base by atleast 20% | Saved $500K through effective cost management | Ex-Financial Analyst @ Ittefaq Group | Ex-Senior Support Specialist @ Fossil Group Inc. | Operation Team Leader | Customer Service Sales Specialist | BBA @ UoD (1st Class Honours)</p>
+<p class="company-description">Hey, I'm Anoosha. I'm a Technical Support Analyst and Senior Support Specialist with 4+ years in leading multinational billion dollar firms in increasing customer retention by atleast 20% </p>
+
+<p class="company-description"> Saved $150K+ in supply chain and customer operations | Generated Additional $20K in ARR within 3 months | Ex-Financial Analyst @ Ittefaq Group | Ex-Senior Support Specialist @ Fossil Group Inc. | Operation Team Leader | Customer Service Sales Specialist | BBA @ UoD (1st Class Honours)</p>
+
 ---
 
-#### 📚 Education 
+### 📚 Education 
 
 | Degree | Institution | Year |
 |:------:|:----------:|:----:|
@@ -429,14 +432,14 @@ table th {
 
 ---
 
-#### 🎯 Skills 
+### 🎯 Skills 
 
 * **Core Competencies**: IBM, SPSS, SAP, SQL, Tableu, Salesforce, Microsoft Suite, Excel, Spreadsheets, CRM, ERP, Power BI.
 
 * **Soft Skills**: Verbal Communication, Compassionate, Multi-tasking, Result Oriented, Organised, Issue Resolving, Teamwork, Detail Oriented.
 
 ---
-#### ✨ 7. Key Achievements 
+### ✨ 7. Key Achievements 
 
 1. Streamlined SAP order management systems and enhanced client servicing through CRM platforms, safeguarding more than $150K+ worth of supply chain and customer operations, being a Senior Support Specialist @ Fossil Group.
 
@@ -454,7 +457,7 @@ table th {
 
 ---
 
-#### 💼 Professional Experience 
+### 💼 Professional Experience 
 
 **Technical Support Analyst and Operations Specialist @ Ecoflow (October 2023 - Present)**  
 <p class="company-description">EcoFlow serves 4.5M+ customers across 100+ countries, with $1B+ valuation, nearly $1B revenue, 1,200+ employees, and award-winning innovations like TIME's "Best Inventions of 2021."</p>
@@ -526,7 +529,7 @@ table th {
 
 
 ---
-#### 📑 Featured Publication 
+### 📑 Featured Publication 
 
 <p class="company-description">Signaling and Screening in Employee Selection: Skill, Education, or Experience</p>
 
@@ -545,7 +548,7 @@ table th {
 
 ---
 
-#### 🏆 Awards & Honours 
+### 🏆 Awards & Honours 
 
 * **Dean's Honour List (University of Debrecen)** 
   4.67/5 GPA in Business Administration BSc.
@@ -555,7 +558,7 @@ table th {
 
 ---
 
-#### 🚀 Transferable Extracurriculars 
+### 🚀 Transferable Extracurriculars 
 
 **Vice President Business Society (LGS)** 
 * Led a team of 30 members to drive business-focused initiatives and enhance society growth.
@@ -564,19 +567,14 @@ table th {
 * Led partnerships with 20+ local businesses, securing internships and mentorship opportunities for students.
 * Boosted membership by 30% through strategic marketing and recruitment campaigns.
 
-**Vice President Business Society (LGS)** 
-* Led a team of 20 members, fostering innovation and collaboration in robotics projects and events.
-* Organized 5+ robotics competitions, attracting over 100 participants and sponsors.
-* Coordinated robotics workshops, improving student participation and skills by 40%.
-
 ---
 
-#### 🌍 Volunteering 
+### 🌍 Volunteering 
 
 **Intern (Rising Sun Institute for Special Children)** 
 * Fundraised $5000 for special needs children through a 15 days door to door campaign.
-* Supported over 30 children in the daily activities of special children
-* Developed and tracked progress for 15 children, ensuring their developmental milestones were achieved in line with school objectives.
+* Supported over 30 children in the daily activities of special children.
+* Developed and tracked progress for 15 children, ensuring their developmental milestones were achieved.
 * Organized 20+ weekly recreational activities, boosting children’s motor skills by 10% over a 6-month period.
 
 
@@ -587,7 +585,7 @@ table th {
 
 ---
 
-#### Contact 📞
+### Contact 📞
 
 * **LinkedIn**: [Anoosha Tariq](https://www.linkedin.com/in/anoosha-tariq-sahi){:rel="noopener noreferrer"}
 * **Email**: anooshy10@gmail.com
