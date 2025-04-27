@@ -420,7 +420,7 @@ table th {
 <p class="company-description">Hey, I'm Anoosha. I'm a Technical Support Analyst and Senior Support Specialist with 4+ years in leading multinational billion dollar firms in growing their customer base by atleast 20% | Saved $500K through effective cost management | Ex-Financial Analyst @ Ittefaq Group | Ex-Senior Support Specialist @ Fossil Group Inc. | Operation Team Leader | Customer Service Sales Specialist | BBA @ UoD (1st Class Honours)</p>
 ---
 
-#### Education 📚
+#### 📚 Education 
 
 | Degree | Institution | Year |
 |:------:|:----------:|:----:|
@@ -429,14 +429,14 @@ table th {
 
 ---
 
-#### Skills 🎯
+#### 🎯 Skills 
 
 * **Core Competencies**: IBM, SPSS, SAP, SQL, Tableu, Salesforce, Microsoft Suite, Excel, Spreadsheets, CRM, ERP, Power BI.
 
 * **Soft Skills**: Verbal Communication, Compassionate, Multi-tasking, Result Oriented, Organised, Issue Resolving, Teamwork, Detail Oriented.
 
 ---
-#### 7. Key Achievements ✨
+#### ✨ 7. Key Achievements 
 
 1. Streamlined SAP order management systems and enhanced client servicing through CRM platforms, safeguarding more than $150K+ worth of supply chain and customer operations, being a Senior Support Specialist @ Fossil Group.
 
@@ -454,12 +454,12 @@ table th {
 
 ---
 
-#### Professional Experience 💼
+#### 💼 Professional Experience 
 
 **Technical Support Analyst and Operations Specialist @ Ecoflow (October 2023 - Present)**  
 <p class="company-description">EcoFlow serves 4.5M+ customers across 100+ countries, with $1B+ valuation, nearly $1B revenue, 1,200+ employees, and award-winning innovations like TIME's "Best Inventions of 2021."</p>
 
-**Responsibilities** 
+**📌 Responsibilities** 
 * Proficiently resolving customer-reported issues with CRM and ERP systems, consistently achieving over 90% in SLA and KPI adherence. 
 
 * Diagnose and troubleshoot more than 50 hardware and software issues daily, enhancing system reliability and user satisfaction for our international clientele in the United States and Canada by 90%. 
@@ -469,7 +469,7 @@ table th {
 **Financial Analyst @ Ittefaq Group (Jun 2023 - Sep 2023)**  
 <p class="company-description">Ittefaq Group, a leader in the construction and steel industries has annual revenue of $100+ million with 1000+ employees. The company's commitment to quality and innovation has solidified its reputation as a key player in construction sector.</p>
 
-**Responsibilities** 
+**📌 Responsibilities** 
 * Negotiated and managed vendor contracts with strategic sourcing methods, securing cost-effective procurement of IT resources, which led to a 20% budget saving. 
 
 * This involved conducting market research, leveraging bulk purchasing, and fostering long-term partnerships to ensure competitive pricing and quality service delivery. 
@@ -485,7 +485,7 @@ table th {
 **Seasonal Operation Team Leader @ Fossil Group (Mar 2023 - Sep 2023)**  
 <p class="company-description">Fossil Group, Inc. operates in 140+ countries with 30,000+ distribution points, $1.4B+ revenue, 6,000+ employees, and leads global fashion with brands like Michael Kors, Diesel, BMW, and Emporio Armani.</p>
 
-**Responsibilities** 
+**📌 Responsibilities** 
 * Customized Salesforce dashboards and reports, working closely with sales teams to understand their needs and providing them with tailored tools. 
 
 * This initiative led to a 12% increase in sales targets and improved client follow-up response times by 20%. 
@@ -497,7 +497,7 @@ table th {
 **Senior Support Specialist @ Fossil Group (Sep 2022 - February 2023)**  
 <p class="company-description">Fossil Group, Inc. operates in 140+ countries with 30,000+ distribution points, $1.4B+ revenue, 6,000+ employees, and leads global fashion with brands like Michael Kors, Diesel, BMW, and Emporio Armani.</p>
 
-**Responsibilities** 
+**📌 Responsibilities** 
 * Mobilized SAP and Cyber Source software to manage customer request efficiently by processing of over 100 orders per week, utilizing my skills in SAP software to organize and manage customer requests efficiently. 
 
 * These efforts led to a significant reduction in processing errors by 50%.
@@ -513,7 +513,7 @@ table th {
 **Operations Intern @ WWF (Jun 2017 - Aug 2017)**  
 <p class="company-description">WWF is one of the world's largest conservation organizations, active in over 130 countries with 5 million+ supporters. With annual revenues over $350 million, it leads global efforts in wildlife protection, habitat conservation, and climate change advocacy.</p>
 
-**Responsibilities** 
+**📌 Responsibilities** 
 * Coordinated logistics for 15+ city-wide food drives, ensuring timely collection and distribution of 10,000 € of food.
 
 * Managed partnerships with 100+ businesses to secure food donations, optimizing supply chain processes for efficiency.
@@ -526,7 +526,7 @@ table th {
 
 
 ---
-#### Featured Publication 📑
+#### 📑 Featured Publication 
 
 <p class="company-description">Signaling and Screening in Employee Selection: Skill, Education, or Experience</p>
 
@@ -545,7 +545,7 @@ table th {
 
 ---
 
-#### Awards & Honours 🏆
+#### 🏆 Awards & Honours 
 
 * **Dean's Honour List (University of Debrecen)** 
   4.67/5 GPA in Business Administration BSc.
@@ -555,7 +555,7 @@ table th {
 
 ---
 
-#### Transferable Extracurriculars 🚀
+#### 🚀 Transferable Extracurriculars 
 
 **Vice President Business Society (LGS)** 
 * Led a team of 30 members to drive business-focused initiatives and enhance society growth.
@@ -571,7 +571,7 @@ table th {
 
 ---
 
-#### Volunteering 🌍
+#### 🌍 Volunteering 
 
 **Intern (Rising Sun Institute for Special Children)** 
 * Fundraised $5000 for special needs children through a 15 days door to door campaign.
