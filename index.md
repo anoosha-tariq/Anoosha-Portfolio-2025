@@ -395,16 +395,32 @@ table th {
         padding-bottom: 75%; /* Slightly taller on mobile */
     }
 }
+
+/* Company description styles */
+.company-description {
+    font-size: 1rem;
+    font-weight: normal;
+    margin-bottom: 1em;
+    color: #333;
+}
+
+/* Professional Experience styles */
+.professional-experience p {
+    font-size: 1rem;
+    font-weight: normal;
+    margin-bottom: 1em;
+    color: #333;
+}
 </style>
 
-# Technical Analyst
+## Technical Analyst
 
 📍 Hungary, Europe
 
 Hey, I'm Anoosha. I am a Technical Support Analyst and Senior Support Specialist with 4+ years in leading multinational firms in growing their working EcoFlow | Ex-Financial Analyst @ Ittefaq Group | Ex-Senior Support Specialist @ Fossil Group Inc. | Operation Team Leader | Customer Service Sales Specialist | BBA @ UoD (1st Class Honours)
 ---
 
-## Education
+### Education
 
 | Degree | Institution | Year |
 |:------:|:----------:|:----:|
@@ -413,14 +429,14 @@ Hey, I'm Anoosha. I am a Technical Support Analyst and Senior Support Specialist
 
 ---
 
-## Skills
+### Skills
 
 * **Core Competencies**: IBM, SPSS, SAP, SQL, Tableu, Salesforce, Microsoft Suite, Excel, Spreadsheets, CRM, ERP, Power BI.
 
 * **Soft Skills**: Verbal Communication, Compassionate, Multi-tasking, Result Oriented, Organised, Issue Resolving, Teamwork, Detail Oriented.
 
 ---
-## Key Achievements
+### Key Achievements
 
 * Resolved 120+ hardware/software issues daily for US and Canada clients using CRM/ERP platforms, boosting system reliability and user satisfaction by 90%. Consistently maintained 90%+ SLA/KPI adherence, and supported over $200K+ worth of customer operations with high efficiency and technical precision as Technical Support Analyst @ EcoFlow.
 
@@ -431,9 +447,9 @@ Hey, I'm Anoosha. I am a Technical Support Analyst and Senior Support Specialist
 * Streamlined SAP order management systems and enhanced client servicing through CRM platforms, cutting order processing errors by 50%, increasing order fulfillment speed by 15%, and improving overall operational efficiency by 10-20%, safeguarding more than $150K+ worth of supply chain and customer operations through targeted system improvements being a Senior Support Specialist @ Fossil Group.
 
 ---
-## Featured Publication
+### Featured Publication
 
-### Signaling and Screening in Employee Selection: Skill, Education, or Experience
+#### Signaling and Screening in Employee Selection: Skill, Education, or Experience
 
 **Featured in the Open Journal System (OJS) at Debreceni Egyetem, that hosts the top 5% publications on business, economics, and management sciences.**
 
@@ -450,33 +466,49 @@ Hey, I'm Anoosha. I am a Technical Support Analyst and Senior Support Specialist
 
 ---
 
-## Professional Experience
+### Professional Experience
 
 **Technical Support Analyst and Operations Specialist @ Ecoflow (October 2023 - Present)**  
-  EcoFlow is a leading global innovator in portable power and renewable energy solutions,serves over 100 countries, with more than 4.5 million customers worldwide. With a robust team of over 1,200 employees, it has a valuation of $1 billion and annual revenues approaching $1 billion. It's flagship products have earned TIME magazine's "Best Inventions of 2021."
-  
- **Financial Analyst @ Ittefaq Group (Jun 2023 - Sep 2023)**  
-  Ittefaq Group, a leader in the construction and steel industries has annual revenue of $100+ million with 1000+ employees. The company's commitment to quality and innovation has solidified its reputation as a key player in construction sector.
+<p class="company-description">EcoFlow serves 4.5M+ customers across 100+ countries, with $1B+ valuation, nearly $1B revenue, 1,200+ employees, and award-winning innovations like TIME's "Best Inventions of 2021.</p>
 
- **Seasonal Operation Team Leader @ Fossil Group (Mar 2023 - Sep 2023)**  
-  Promoted to Team Leader
+**Financial Analyst @ Ittefaq Group (Jun 2023 - Sep 2023)**  
+<p class="company-description">Ittefaq Group, a leader in the construction and steel industries has annual revenue of $100+ million with 1000+ employees. The company's commitment to quality and innovation has solidified its reputation as a key player in construction sector.</p>
 
- **Senior Support Specialist @ Fossil Group (Sep 2022 - February 2023)**  
- Fossil Group, Inc. is a globally recognized leader in the fashion industry, operates in over 140 countries with a powerful network of more than 30,000 points of distribution. Fossil Group generates over $1.4 billion in annual revenue and manages names like Michael Kors, Diesel, BMW, and Emporio Armani. With a workforce of over 6,000 employees worldwide, the company is one of the most influential and admired players in the global accessories and wearable technology market.
+**Seasonal Operation Team Leader @ Fossil Group (Mar 2023 - Sep 2023)**  
+<p class="company-description">Promoted to Team Leader</p>
+
+**Senior Support Specialist @ Fossil Group (Sep 2022 - February 2023)**  
+<p class="company-description">Fossil Group, Inc. operates in 140+ countries with 30,000+ distribution points, $1.4B+ revenue, 6,000+ employees, and leads global fashion with brands like Michael Kors, Diesel, BMW, and Emporio Armani.</p>
+
+**Operations Intern @ WWF (Jun 2017 - Aug 2017)**  
+<p class="company-description">WWF is one of the world's largest conservation organizations, active in over 130 countries with 5 million+ supporters. With annual revenues over $350 million, it leads global efforts in wildlife protection, habitat conservation, and climate change advocacy.</p>
+
+* **Responsibilities** 
+* Coordinated logistics for 15+ city-wide food drives, ensuring timely collection and distribution of 10,000 € of food.
+
+* Managed partnerships with 100+ businesses to secure food donations, optimizing supply chain processes for efficiency.
+
+* Led a team to win 1st place out of 50 teams by driving operational excellence and exceeding target goals.
+
+* Documented and analyzed food conservation impact, influencing 50,000+ individuals through targeted awareness campaigns.
+
+* Maintained high operational efficiency and team morale, ensuring smooth event execution under tight deadlines.
+
+
 
 ---
 
-## Awards & Honours
+### Awards & Honours
 
 * **Dean's Honour List** 
-  3.8/4 SGPA in Computer Science
+  4.67/5 GPA in Business Administration BSc.
 
-* **Dean's Leadership Medal** 
+* **WWF** 
   Built 12 Hand Gesture Controlled Robotic Vehicles
 
 ---
 
-## Transferable Experience
+### Extracurriculars
 
 * **Tech Speaker Innovia UK Women in STEM**  
   Keynote Guest Speaker.    
@@ -487,7 +519,7 @@ Hey, I'm Anoosha. I am a Technical Support Analyst and Senior Support Specialist
 
 ---
 
-## Contact
+### Contact
 
 * **LinkedIn**: [Anoosha Tariq](https://www.linkedin.com/in/anoosha-tariq-sahi){:rel="noopener noreferrer"}
 * **Email**: anooshy10@gmail.com
