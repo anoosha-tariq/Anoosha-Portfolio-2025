@@ -423,15 +423,6 @@ table th {
 
 ---
 
-### 📚 Education 
-
-| Degree | Institution | Year |
-|:------:|:----------:|:----:|
-| BSc., Business Administration and Management | University of Debrecen | 1st Class Honours 
-| Cambridge International A Level Examination | LGS | A*, A, B
-
----
-
 ### 🎯 Skills 
 
 * **Core Competencies**: IBM, SPSS, SAP, SQL, Tableu, Salesforce, Microsoft Suite, Excel, Spreadsheets, CRM, ERP, Power BI.
@@ -529,6 +520,16 @@ table th {
 
 
 ---
+
+### 📚 Education 
+
+| Degree | Institution | Year |
+|:------:|:----------:|:----:|
+| BSc., Business Administration and Management | University of Debrecen | 1st Class Honours 
+| Cambridge International A Level Examination | LGS | A*, A, B
+
+---
+
 ### 📑 Featured Publication 
 
 <p class="company-description">Signaling and Screening in Employee Selection: Skill, Education, or Experience</p>
