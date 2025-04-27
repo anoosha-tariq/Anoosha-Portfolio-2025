@@ -417,7 +417,7 @@ table th {
 
 📍 Hungary, Europe
 
-Hey, I'm Anoosha. I am a Technical Support Analyst and Senior Support Specialist with 4+ years in leading multinational firms in growing their working EcoFlow | Ex-Financial Analyst @ Ittefaq Group | Ex-Senior Support Specialist @ Fossil Group Inc. | Operation Team Leader | Customer Service Sales Specialist | BBA @ UoD (1st Class Honours)
+<p class="company-description">Hey, I'm Anoosha. I am a Technical Support Analyst and Senior Support Specialist with 4+ years in leading multinational firms in growing their working EcoFlow | Ex-Financial Analyst @ Ittefaq Group | Ex-Senior Support Specialist @ Fossil Group Inc. | Operation Team Leader | Customer Service Sales Specialist | BBA @ UoD (1st Class Honours)</p>
 ---
 
 ### Education
@@ -449,9 +449,9 @@ Hey, I'm Anoosha. I am a Technical Support Analyst and Senior Support Specialist
 ---
 ### Featured Publication
 
-#### Signaling and Screening in Employee Selection: Skill, Education, or Experience
+<p class="company-description">Signaling and Screening in Employee Selection: Skill, Education, or Experience</p>
 
-**Featured in the Open Journal System (OJS) at Debreceni Egyetem, that hosts the top 5% publications on business, economics, and management sciences.**
+<p class="company-description">Featured in the Open Journal System (OJS) at Debreceni Egyetem, that hosts the top 5% publications on business, economics, and management sciences.</p>
 
 <img src="./assets/img/publication.png" class="project-image" alt="Publication">
 
