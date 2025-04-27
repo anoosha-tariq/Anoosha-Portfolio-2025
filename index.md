@@ -586,7 +586,7 @@ table th {
 
 ---
 
-### Contact 📞
+### 📞 Contact 
 
 * **LinkedIn**: [Anoosha Tariq](https://www.linkedin.com/in/anoosha-tariq-sahi){:rel="noopener noreferrer"}
 * **Email**: anooshy10@gmail.com
