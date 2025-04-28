@@ -421,7 +421,7 @@ table th {
 
 </p>
 
-<p class="company-description"> Saved $150K+ in supply chain and customer operations | Generated Additional $20K in ARR within 3 months | Ex-Financial Analyst @ Ittefaq Group | Ex-Senior Support Specialist @ Fossil Group Inc. | Operation Team Leader | Customer Service Sales Specialist | BBA @ UoD (1st Class Honours)</p>
+<p class="company-description"> Saved $150K+ in supply chain and customer operations | Generated Additional $20K in ARR within 3 months | Technical Analyst @ Ecoflow Ex-Financial Analyst @ Ittefaq Group | Ex-Senior Support Specialist @ Fossil Group Inc. | Operation Team Leader | Customer Service Sales Specialist | BBA @ UoD (1st Class Honours)</p>
 
 ---
 
