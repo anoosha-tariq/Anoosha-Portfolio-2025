@@ -417,7 +417,7 @@ table th {
 
 📍 Hungary, Europe
 
-<p class="company-description">Hey, I'm Anoosha. I'm a Technical Support Analyst and Customer Operations Specialist with 4+ years in leading data-driven strategies that boost efficiency and revenue. I have led a 40% revenue boost and saved $500K+ for $1B+ global leading firms through effective customer satisfaction, cost management, operational support and vendor negotiations. 
+<p class="company-description">Hey, I'm Anoosha. I'm a Technical Support Analyst and Customer Operations Specialist with 4+ years of expertise in leading data-driven strategies that boost efficiency and revenue. I have led a 40% revenue boost and saved $500K+ for $1B+ global leading firms through effective customer satisfaction, cost management, operational support and vendor negotiations. 
 
 </p>
 
