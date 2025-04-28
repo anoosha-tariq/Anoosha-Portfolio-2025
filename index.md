@@ -417,7 +417,9 @@ table th {
 
 📍 Hungary, Europe
 
-<p class="company-description">Hey, I'm Anoosha. I'm a Technical Support Analyst and Senior Support Specialist with 4+ years in leading multinational billion dollar firms in increasing customer retention by atleast 20% </p>
+<p class="company-description">Hey, I'm Anoosha. I'm a Technical Support Analyst and Customer Operations Specialist with 4+ years in leading data-driven strategies that boost efficiency and revenue. I have led a 40% revenue boost and saved $500K+ for $1B+ global leading firms through effective customer satisfaction, cost management, operational support and vendor negotiations. 
+
+</p>
 
 <p class="company-description"> Saved $150K+ in supply chain and customer operations | Generated Additional $20K in ARR within 3 months | Ex-Financial Analyst @ Ittefaq Group | Ex-Senior Support Specialist @ Fossil Group Inc. | Operation Team Leader | Customer Service Sales Specialist | BBA @ UoD (1st Class Honours)</p>
 
