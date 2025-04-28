@@ -429,7 +429,7 @@ table th {
 
 * **Core Competencies**: IBM, SPSS, SAP, SQL, Tableu, Salesforce, Microsoft Suite, Excel, Spreadsheets, CRM, ERP, Power BI.
 
-* **Soft Skills**: Verbal Communication, Compassionate, Multi-tasking, Result Oriented, Organised, Issue Resolving, Teamwork, Detail Oriented.
+* **Soft Skills**: Verbal Communication, Compassion, Multi-tasking, Result Orientation, Organisation, Issue Resolving, Teamwork, Detail Orientation.
 
 ---
 ### ✨ 7. Key Achievements 
